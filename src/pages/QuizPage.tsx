@@ -1,13 +1,10 @@
 import { Link } from "react-router-dom";
 import { useQuiz } from "../hooks/useQuiz";
-import { useWords } from "../hooks/useWords";
 import { QuizCard } from "../components/QuizCard";
 
 export function QuizPage() {
-  const words = useWords();
-  const { question, next, answer, finished } = useQuiz("meaning");
-  const total = words.length;
-  const questionNumber = total - (question ? total - words.indexOf(question.word) - 1 : 0);
+  const { question, next, answer, finished, index, total } = useQuiz("meaning");
+  const questionNumber = index + 1;
 
   if (finished) {
     return (

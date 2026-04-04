@@ -1,14 +1,10 @@
 import { Link } from "react-router-dom";
 import { useQuiz } from "../hooks/useQuiz";
-import { useWords } from "../hooks/useWords";
 import { FillInQuiz } from "../components/FillInQuiz";
 
 export function FillInPage() {
-  const allWords = useWords();
-  const pool = allWords.filter((w) => w.example !== null);
-  const { question, next, answer, finished } = useQuiz("fillin");
-  const total = pool.length;
-  const questionNumber = total - (question ? pool.indexOf(question.word) : 0);
+  const { question, next, answer, finished, index, total } = useQuiz("fillin");
+  const questionNumber = index + 1;
 
   if (finished) {
     return (

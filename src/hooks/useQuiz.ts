@@ -69,5 +69,5 @@ export function useQuiz(mode: QuizMode) {
     setIndex((i) => i + 1);
   }, []);
 
-  return { question, next, answer, finished };
+  return { question, next, answer, finished, index, total: pool.length };
 }
