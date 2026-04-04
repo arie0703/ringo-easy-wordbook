@@ -35,10 +35,12 @@ export function useQuiz(mode: QuizMode) {
   const allWords = useWords();
   const { addRecord } = useProgress();
 
+  const QUIZ_LIMIT = 10;
+
   const pool = useMemo(() => {
     const target =
       mode === "fillin" ? allWords.filter((w) => w.example !== null) : allWords;
-    return shuffle(target);
+    return shuffle(target).slice(0, QUIZ_LIMIT);
   }, [allWords, mode]);
 
   const [index, setIndex] = useState(0);
