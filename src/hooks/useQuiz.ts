@@ -43,8 +43,10 @@ export function useQuiz(mode: QuizMode) {
 
   const [index, setIndex] = useState(0);
 
-  const question: QuizQuestion | null =
-    index < pool.length ? buildQuestion(pool[index], allWords, mode) : null;
+  const question = useMemo(
+    () => (index < pool.length ? buildQuestion(pool[index], allWords, mode) : null),
+    [index, pool, allWords, mode]
+  );
 
   const finished = index >= pool.length;
 
