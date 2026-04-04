@@ -23,7 +23,7 @@ export function WordList({ words }: Props) {
 
   return (
     <div data-component="WordList" className="flex flex-col gap-4">
-      <div className="flex flex-col sm:flex-row gap-3">
+      <div data-element="search-bar" className="flex flex-col sm:flex-row gap-3">
         <input
           type="text"
           placeholder="英語・日本語で検索..."
@@ -44,7 +44,7 @@ export function WordList({ words }: Props) {
 
       <p className="text-sm text-gray-500">{filtered.length} 件</p>
 
-      <div className="overflow-x-auto rounded-xl border border-gray-700">
+      <div data-element="word-table" className="overflow-x-auto rounded-xl border border-gray-700">
         <table className="w-full text-sm">
           <thead className="bg-gray-800 text-gray-400 uppercase text-xs">
             <tr>

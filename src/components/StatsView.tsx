@@ -30,13 +30,13 @@ export function StatsView({ words, onReset }: Props) {
 
   return (
     <div data-component="StatsView" className="flex flex-col gap-6">
-      <section className="flex flex-col gap-3">
+      <section data-element="mode-stats" className="flex flex-col gap-3">
         <h2 className="text-base font-bold text-gray-400 uppercase tracking-wide">モード別正答率</h2>
         <ModeStats mode="meaning" label="4択クイズ" />
         <ModeStats mode="fillin" label="穴埋めクイズ" />
       </section>
 
-      <section className="flex flex-col gap-3">
+      <section data-element="word-stats" className="flex flex-col gap-3">
         <h2 className="text-base font-bold text-gray-400 uppercase tracking-wide">単語別成績</h2>
         <div className="overflow-x-auto rounded-xl border border-gray-700">
           <table className="w-full text-sm">
@@ -69,8 +69,9 @@ export function StatsView({ words, onReset }: Props) {
         </div>
       </section>
 
-      <div className="flex justify-center pt-2">
+      <div data-element="reset-area" className="flex justify-center pt-2">
         <button
+          data-element="reset-button"
           onClick={onReset}
           className="px-6 py-2 border border-red-700 text-red-400 rounded-full text-sm hover:bg-red-950 transition-colors"
         >

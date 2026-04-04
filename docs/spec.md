@@ -54,6 +54,7 @@
 - 例: `His ___ is vital to the team.`
   - 選択肢: 1. versatility　2. adroit　3. stigma　4. hamper
 - 正解・不正解をその場でフィードバックする
+- 回答後に例文の日本語訳（`translation`）を表示する
 
 ### 4. 単語一覧
 
@@ -81,7 +82,8 @@
       "japanese": "汎用性・多才さ",
       "example": {
         "before": "His",
-        "after": "is vital to the team."
+        "after": "is vital to the team.",
+        "translation": "彼の多才さはチームにとって不可欠だ。"
       }
     },
     {
@@ -90,7 +92,8 @@
       "japanese": "巧みな・器用な",
       "example": {
         "before": "She was",
-        "after": "at handling difficult negotiations."
+        "after": "at handling difficult negotiations.",
+        "translation": "彼女は難しい交渉をうまく処理することに長けていた。"
       }
     },
     {
@@ -109,6 +112,7 @@
 export type WordExample = {
   before: string;
   after: string;
+  translation: string;  // 例文の日本語訳
 };
 
 export type Word = {

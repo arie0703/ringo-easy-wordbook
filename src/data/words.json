@@ -6,7 +6,8 @@
       "japanese": "汎用性・多才さ",
       "example": {
         "before": "His",
-        "after": "is vital to the team."
+        "after": "is vital to the team.",
+        "translation": "彼の多才さはチームにとって不可欠だ。"
       }
     },
     {
@@ -15,7 +16,8 @@
       "japanese": "巧みな・器用な",
       "example": {
         "before": "She was",
-        "after": "at handling difficult negotiations."
+        "after": "at handling difficult negotiations.",
+        "translation": "彼女は難しい交渉をうまく処理することに長けていた。"
       }
     },
     {
@@ -30,7 +32,8 @@
       "japanese": "妨げる・阻む",
       "example": {
         "before": "The heavy rain began to",
-        "after": "our progress."
+        "after": "our progress.",
+        "translation": "激しい雨が私たちの進みを妨げ始めた。"
       }
     },
     {
@@ -39,7 +42,8 @@
       "japanese": "粘り強い・執拗な",
       "example": {
         "before": "He was",
-        "after": "in pursuing his goals."
+        "after": "in pursuing his goals.",
+        "translation": "彼は目標を追い求めるのに粘り強かった。"
       }
     },
     {
@@ -54,7 +58,8 @@
       "japanese": "細心の・几帳面な",
       "example": {
         "before": "She was",
-        "after": "in her research."
+        "after": "in her research.",
+        "translation": "彼女は研究において非常に細心の注意を払っていた。"
       }
     },
     {
@@ -63,7 +68,8 @@
       "japanese": "実用的な・現実的な",
       "example": {
         "before": "We need a",
-        "after": "approach to solve this problem."
+        "after": "approach to solve this problem.",
+        "translation": "この問題を解決するには現実的なアプローチが必要だ。"
       }
     }
   ]
