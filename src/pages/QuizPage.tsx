@@ -32,7 +32,7 @@ export function QuizPage() {
   if (!question) return null;
 
   return (
-    <div className="max-w-lg mx-auto py-8 px-4 flex flex-col gap-4">
+    <div data-component="QuizPage" className="max-w-lg mx-auto py-8 px-4 flex flex-col gap-4">
       <div className="flex items-center justify-between">
         <h1 className="text-lg font-bold text-gray-200">4択クイズ</h1>
         <Link to="/" className="text-sm text-gray-500 hover:text-gray-300">← ホーム</Link>

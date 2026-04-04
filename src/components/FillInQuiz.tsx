@@ -30,7 +30,7 @@ export function FillInQuiz({ question, questionNumber, total, onNext, onAnswer }
   }
 
   return (
-    <div className="flex flex-col gap-6">
+    <div data-component="FillInQuiz" className="flex flex-col gap-6">
       <div className="text-sm text-gray-400 text-right">
         {questionNumber} / {total}
       </div>

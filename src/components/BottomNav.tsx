@@ -10,7 +10,7 @@ const navItems = [
 
 export function BottomNav() {
   return (
-    <nav className="fixed bottom-0 inset-x-0 bg-gray-900 border-t border-gray-700 flex justify-around py-2 z-50 sm:hidden">
+    <nav data-component="BottomNav" className="fixed bottom-0 inset-x-0 bg-gray-900 border-t border-gray-700 flex justify-around py-2 z-50 sm:hidden">
       {navItems.map(({ to, label, emoji }) => (
         <NavLink
           key={to}

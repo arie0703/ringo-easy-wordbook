@@ -41,7 +41,7 @@ const cards: NavCard[] = [
 
 export function Home() {
   return (
-    <div className="flex flex-col items-center gap-8 py-10 px-4">
+    <div data-component="Home" className="flex flex-col items-center gap-8 py-10 px-4">
       <div className="text-center">
         <h1 className="text-4xl font-bold text-indigo-400 tracking-tight">🍎 ringo</h1>
         <p className="text-gray-500 mt-2">英単語学習アプリ</p>

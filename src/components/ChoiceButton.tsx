@@ -16,6 +16,7 @@ const stateClass: Record<State, string> = {
 export function ChoiceButton({ label, state, disabled, onClick }: Props) {
   return (
     <button
+      data-component="ChoiceButton"
       onClick={onClick}
       disabled={disabled}
       className={`w-full px-4 py-3 border-2 rounded-xl text-left font-medium transition-colors ${stateClass[state]} disabled:cursor-default`}

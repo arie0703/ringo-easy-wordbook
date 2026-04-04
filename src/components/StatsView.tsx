@@ -29,7 +29,7 @@ export function StatsView({ words, onReset }: Props) {
   const { getStats } = useProgress();
 
   return (
-    <div className="flex flex-col gap-6">
+    <div data-component="StatsView" className="flex flex-col gap-6">
       <section className="flex flex-col gap-3">
         <h2 className="text-base font-bold text-gray-400 uppercase tracking-wide">モード別正答率</h2>
         <ModeStats mode="meaning" label="4択クイズ" />

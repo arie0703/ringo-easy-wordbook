@@ -22,7 +22,7 @@ export function WordList({ words }: Props) {
   });
 
   return (
-    <div className="flex flex-col gap-4">
+    <div data-component="WordList" className="flex flex-col gap-4">
       <div className="flex flex-col sm:flex-row gap-3">
         <input
           type="text"
