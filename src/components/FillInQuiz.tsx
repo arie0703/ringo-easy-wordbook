@@ -35,11 +35,11 @@ export function FillInQuiz({ question, questionNumber, total, onNext, onAnswer }
         {questionNumber} / {total}
       </div>
 
-      <div className="bg-indigo-50 rounded-2xl p-6 text-center">
+      <div className="bg-indigo-950 rounded-2xl p-6 text-center">
         <p className="text-xs text-indigo-400 font-semibold uppercase tracking-widest mb-3">Fill in the blank</p>
-        <p className="text-xl text-indigo-800 leading-relaxed">
+        <p className="text-xl text-indigo-200 leading-relaxed">
           {before}{" "}
-          <span className={`inline-block px-3 py-0.5 rounded-lg font-bold border-2 ${selected !== null ? "bg-indigo-200 border-indigo-400 text-indigo-800" : "bg-white border-dashed border-indigo-400 text-indigo-300"}`}>
+          <span className={`inline-block px-3 py-0.5 rounded-lg font-bold border-2 ${selected !== null ? "bg-indigo-700 border-indigo-400 text-indigo-100" : "bg-gray-900 border-dashed border-indigo-500 text-indigo-500"}`}>
             {selected !== null ? question.word.english : "___"}
           </span>{" "}
           {after}
@@ -68,7 +68,7 @@ export function FillInQuiz({ question, questionNumber, total, onNext, onAnswer }
 
       {selected !== null && (
         <div className="flex flex-col items-center gap-3">
-          <p className={`text-lg font-bold ${correct ? "text-green-600" : "text-red-500"}`}>
+          <p className={`text-lg font-bold ${correct ? "text-green-400" : "text-red-400"}`}>
             {correct ? "正解！" : "不正解…"}
           </p>
           <p className="text-sm text-gray-500">
@@ -76,7 +76,7 @@ export function FillInQuiz({ question, questionNumber, total, onNext, onAnswer }
           </p>
           <button
             onClick={handleNext}
-            className="px-8 py-2 bg-indigo-600 text-white rounded-full font-semibold hover:bg-indigo-700 transition-colors"
+            className="px-8 py-2 bg-indigo-500 text-white rounded-full font-semibold hover:bg-indigo-400 transition-colors"
           >
             次へ
           </button>

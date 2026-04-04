@@ -9,7 +9,7 @@ import { BottomNav } from "./components/BottomNav";
 function App() {
   return (
     <BrowserRouter>
-      <div className="min-h-screen bg-gray-50 pb-16 sm:pb-0">
+      <div className="min-h-screen bg-gray-950 pb-16 sm:pb-0">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/quiz" element={<QuizPage />} />

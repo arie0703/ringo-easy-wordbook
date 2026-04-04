@@ -8,9 +8,9 @@ type Props = {
 };
 
 const stateClass: Record<State, string> = {
-  default: "bg-white border-gray-300 text-gray-800 hover:bg-indigo-50 hover:border-indigo-400",
-  correct: "bg-green-100 border-green-500 text-green-800",
-  wrong: "bg-red-100 border-red-400 text-red-700",
+  default: "bg-gray-800 border-gray-600 text-gray-100 hover:bg-indigo-900/50 hover:border-indigo-500",
+  correct: "bg-green-900/50 border-green-500 text-green-300",
+  wrong: "bg-red-900/50 border-red-500 text-red-300",
 };
 
 export function ChoiceButton({ label, state, disabled, onClick }: Props) {

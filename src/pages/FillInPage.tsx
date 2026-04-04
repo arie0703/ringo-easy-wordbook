@@ -14,17 +14,17 @@ export function FillInPage() {
     return (
       <div className="flex flex-col items-center gap-6 py-16 px-4">
         <p className="text-4xl">🎉</p>
-        <h2 className="text-2xl font-bold text-gray-700">全問終了！</h2>
+        <h2 className="text-2xl font-bold text-gray-200">全問終了！</h2>
         <div className="flex gap-3">
           <button
             onClick={() => window.location.reload()}
-            className="px-6 py-2 bg-indigo-600 text-white rounded-full font-semibold hover:bg-indigo-700 transition-colors"
+            className="px-6 py-2 bg-indigo-500 text-white rounded-full font-semibold hover:bg-indigo-400 transition-colors"
           >
             もう一度
           </button>
           <Link
             to="/"
-            className="px-6 py-2 border border-gray-300 text-gray-600 rounded-full font-semibold hover:bg-gray-50 transition-colors"
+            className="px-6 py-2 border border-gray-600 text-gray-300 rounded-full font-semibold hover:bg-gray-800 transition-colors"
           >
             ホームへ
           </Link>
@@ -38,8 +38,8 @@ export function FillInPage() {
   return (
     <div className="max-w-lg mx-auto py-8 px-4 flex flex-col gap-4">
       <div className="flex items-center justify-between">
-        <h1 className="text-lg font-bold text-gray-700">穴埋めクイズ</h1>
-        <Link to="/" className="text-sm text-gray-400 hover:text-gray-600">← ホーム</Link>
+        <h1 className="text-lg font-bold text-gray-200">穴埋めクイズ</h1>
+        <Link to="/" className="text-sm text-gray-500 hover:text-gray-300">← ホーム</Link>
       </div>
       <FillInQuiz
         question={question}

@@ -33,9 +33,9 @@ export function QuizCard({ question, questionNumber, total, onNext, onAnswer }: 
         {questionNumber} / {total}
       </div>
 
-      <div className="bg-indigo-50 rounded-2xl p-6 text-center">
+      <div className="bg-indigo-950 rounded-2xl p-6 text-center">
         <p className="text-xs text-indigo-400 font-semibold uppercase tracking-widest mb-2">English</p>
-        <p className="text-3xl font-bold text-indigo-800">{question.word.english}</p>
+        <p className="text-3xl font-bold text-indigo-200">{question.word.english}</p>
       </div>
 
       <div className="flex flex-col gap-3">
@@ -60,12 +60,12 @@ export function QuizCard({ question, questionNumber, total, onNext, onAnswer }: 
 
       {selected !== null && (
         <div className="flex flex-col items-center gap-3">
-          <p className={`text-lg font-bold ${correct ? "text-green-600" : "text-red-500"}`}>
+          <p className={`text-lg font-bold ${correct ? "text-green-400" : "text-red-400"}`}>
             {correct ? "正解！" : "不正解…"}
           </p>
           <button
             onClick={handleNext}
-            className="px-8 py-2 bg-indigo-600 text-white rounded-full font-semibold hover:bg-indigo-700 transition-colors"
+            className="px-8 py-2 bg-indigo-500 text-white rounded-full font-semibold hover:bg-indigo-400 transition-colors"
           >
             次へ
           </button>

@@ -10,14 +10,14 @@ const navItems = [
 
 export function BottomNav() {
   return (
-    <nav className="fixed bottom-0 inset-x-0 bg-white border-t border-gray-200 flex justify-around py-2 z-50 sm:hidden">
+    <nav className="fixed bottom-0 inset-x-0 bg-gray-900 border-t border-gray-700 flex justify-around py-2 z-50 sm:hidden">
       {navItems.map(({ to, label, emoji }) => (
         <NavLink
           key={to}
           to={to}
           end={to === "/"}
           className={({ isActive }) =>
-            `flex flex-col items-center gap-0.5 px-2 py-1 text-xs ${isActive ? "text-indigo-600 font-semibold" : "text-gray-400"}`
+            `flex flex-col items-center gap-0.5 px-2 py-1 text-xs ${isActive ? "text-indigo-400 font-semibold" : "text-gray-500"}`
           }
         >
           <span className="text-lg">{emoji}</span>
