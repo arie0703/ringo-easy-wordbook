@@ -41,13 +41,13 @@ const cards: NavCard[] = [
 
 export function Home() {
   return (
-    <div className="flex flex-col items-center gap-8 py-10 px-4">
-      <div className="text-center">
+    <div data-component="Home" className="flex flex-col items-center gap-8 py-10 px-4">
+      <div data-element="header" className="text-center">
         <h1 className="text-4xl font-bold text-indigo-400 tracking-tight">🍎 ringo</h1>
         <p className="text-gray-500 mt-2">英単語学習アプリ</p>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full max-w-xl">
+      <div data-element="nav-cards" className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full max-w-xl">
         {cards.map((card) => (
           <Link
             key={card.to}

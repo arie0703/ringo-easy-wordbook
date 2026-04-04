@@ -1,13 +1,10 @@
 import { Link } from "react-router-dom";
 import { useQuiz } from "../hooks/useQuiz";
-import { useWords } from "../hooks/useWords";
 import { QuizCard } from "../components/QuizCard";
 
 export function QuizPage() {
-  const words = useWords();
-  const { question, next, answer, finished } = useQuiz("meaning");
-  const total = words.length;
-  const questionNumber = total - (question ? total - words.indexOf(question.word) - 1 : 0);
+  const { question, next, answer, finished, index, total } = useQuiz("meaning");
+  const questionNumber = index + 1;
 
   if (finished) {
     return (
@@ -35,7 +32,7 @@ export function QuizPage() {
   if (!question) return null;
 
   return (
-    <div className="max-w-lg mx-auto py-8 px-4 flex flex-col gap-4">
+    <div data-component="QuizPage" className="max-w-lg mx-auto py-8 px-4 flex flex-col gap-4">
       <div className="flex items-center justify-between">
         <h1 className="text-lg font-bold text-gray-200">4択クイズ</h1>
         <Link to="/" className="text-sm text-gray-500 hover:text-gray-300">← ホーム</Link>

@@ -1,14 +1,10 @@
 import { Link } from "react-router-dom";
 import { useQuiz } from "../hooks/useQuiz";
-import { useWords } from "../hooks/useWords";
 import { FillInQuiz } from "../components/FillInQuiz";
 
 export function FillInPage() {
-  const allWords = useWords();
-  const pool = allWords.filter((w) => w.example !== null);
-  const { question, next, answer, finished } = useQuiz("fillin");
-  const total = pool.length;
-  const questionNumber = total - (question ? pool.indexOf(question.word) : 0);
+  const { question, next, answer, finished, index, total } = useQuiz("fillin");
+  const questionNumber = index + 1;
 
   if (finished) {
     return (
@@ -36,7 +32,7 @@ export function FillInPage() {
   if (!question) return null;
 
   return (
-    <div className="max-w-lg mx-auto py-8 px-4 flex flex-col gap-4">
+    <div data-component="FillInPage" className="max-w-lg mx-auto py-8 px-4 flex flex-col gap-4">
       <div className="flex items-center justify-between">
         <h1 className="text-lg font-bold text-gray-200">穴埋めクイズ</h1>
         <Link to="/" className="text-sm text-gray-500 hover:text-gray-300">← ホーム</Link>

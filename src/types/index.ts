@@ -1,6 +1,7 @@
 export type WordExample = {
   before: string;
   after: string;
+  translation: string;
 };
 
 export type Word = {

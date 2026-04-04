@@ -28,17 +28,17 @@ export function QuizCard({ question, questionNumber, total, onNext, onAnswer }: 
   }
 
   return (
-    <div className="flex flex-col gap-6">
-      <div className="text-sm text-gray-400 text-right">
+    <div data-component="QuizCard" className="flex flex-col gap-6">
+      <div data-element="progress" className="text-sm text-gray-400 text-right">
         {questionNumber} / {total}
       </div>
 
-      <div className="bg-indigo-950 rounded-2xl p-6 text-center">
+      <div data-element="word-card" className="bg-indigo-950 rounded-2xl p-6 text-center">
         <p className="text-xs text-indigo-400 font-semibold uppercase tracking-widest mb-2">English</p>
-        <p className="text-3xl font-bold text-indigo-200">{question.word.english}</p>
+        <p data-element="word-english" className="text-3xl font-bold text-indigo-200">{question.word.english}</p>
       </div>
 
-      <div className="flex flex-col gap-3">
+      <div data-element="choices" className="flex flex-col gap-3">
         {question.choices.map((choice, i) => (
           <ChoiceButton
             key={i}
@@ -59,11 +59,12 @@ export function QuizCard({ question, questionNumber, total, onNext, onAnswer }: 
       </div>
 
       {selected !== null && (
-        <div className="flex flex-col items-center gap-3">
-          <p className={`text-lg font-bold ${correct ? "text-green-400" : "text-red-400"}`}>
+        <div data-element="feedback" className="flex flex-col items-center gap-3">
+          <p data-element="feedback-result" className={`text-lg font-bold ${correct ? "text-green-400" : "text-red-400"}`}>
             {correct ? "正解！" : "不正解…"}
           </p>
           <button
+            data-element="next-button"
             onClick={handleNext}
             className="px-8 py-2 bg-indigo-500 text-white rounded-full font-semibold hover:bg-indigo-400 transition-colors"
           >

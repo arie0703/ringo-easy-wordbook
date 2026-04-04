@@ -14,7 +14,7 @@ export function FillInQuiz({ question, questionNumber, total, onNext, onAnswer }
   const [selected, setSelected] = useState<number | null>(null);
   const [correct, setCorrect] = useState<boolean | null>(null);
 
-  const { before, after } = question.word.example!;
+  const { before, after, translation } = question.word.example!;
 
   function handleSelect(index: number) {
     if (selected !== null) return;
@@ -30,23 +30,26 @@ export function FillInQuiz({ question, questionNumber, total, onNext, onAnswer }
   }
 
   return (
-    <div className="flex flex-col gap-6">
-      <div className="text-sm text-gray-400 text-right">
+    <div data-component="FillInQuiz" className="flex flex-col gap-6">
+      <div data-element="progress" className="text-sm text-gray-400 text-right">
         {questionNumber} / {total}
       </div>
 
-      <div className="bg-indigo-950 rounded-2xl p-6 text-center">
+      <div data-element="example-card" className="bg-indigo-950 rounded-2xl p-6 text-center">
         <p className="text-xs text-indigo-400 font-semibold uppercase tracking-widest mb-3">Fill in the blank</p>
-        <p className="text-xl text-indigo-200 leading-relaxed">
+        <p data-element="example-sentence" className="text-xl text-indigo-200 leading-relaxed">
           {before}{" "}
-          <span className={`inline-block px-3 py-0.5 rounded-lg font-bold border-2 ${selected !== null ? "bg-indigo-700 border-indigo-400 text-indigo-100" : "bg-gray-900 border-dashed border-indigo-500 text-indigo-500"}`}>
+          <span data-element="blank" className={`inline-block px-3 py-0.5 rounded-lg font-bold border-2 ${selected !== null ? "bg-indigo-700 border-indigo-400 text-indigo-100" : "bg-gray-900 border-dashed border-indigo-500 text-indigo-500"}`}>
             {selected !== null ? question.word.english : "___"}
           </span>{" "}
           {after}
         </p>
+        {selected !== null && (
+          <p data-element="translation" className="text-sm text-gray-400 mt-3 italic">{translation}</p>
+        )}
       </div>
 
-      <div className="flex flex-col gap-3">
+      <div data-element="choices" className="flex flex-col gap-3">
         {question.choices.map((choice, i) => (
           <ChoiceButton
             key={i}
@@ -67,14 +70,13 @@ export function FillInQuiz({ question, questionNumber, total, onNext, onAnswer }
       </div>
 
       {selected !== null && (
-        <div className="flex flex-col items-center gap-3">
-          <p className={`text-lg font-bold ${correct ? "text-green-400" : "text-red-400"}`}>
+        <div data-element="feedback" className="flex flex-col items-center gap-3">
+          <p data-element="feedback-result" className={`text-lg font-bold ${correct ? "text-green-400" : "text-red-400"}`}>
             {correct ? "正解！" : "不正解…"}
           </p>
-          <p className="text-sm text-gray-500">
-            {question.word.japanese}
-          </p>
+          <p data-element="word-japanese" className="text-sm text-gray-500">{question.word.japanese}</p>
           <button
+            data-element="next-button"
             onClick={handleNext}
             className="px-8 py-2 bg-indigo-500 text-white rounded-full font-semibold hover:bg-indigo-400 transition-colors"
           >
