@@ -1,0 +1,70 @@
+{
+  "words": [
+    {
+      "id": "w001",
+      "english": "versatility",
+      "japanese": "汎用性・多才さ",
+      "example": {
+        "before": "His",
+        "after": "is vital to the team."
+      }
+    },
+    {
+      "id": "w002",
+      "english": "adroit",
+      "japanese": "巧みな・器用な",
+      "example": {
+        "before": "She was",
+        "after": "at handling difficult negotiations."
+      }
+    },
+    {
+      "id": "w003",
+      "english": "stigma",
+      "japanese": "汚名・烙印",
+      "example": null
+    },
+    {
+      "id": "w004",
+      "english": "hamper",
+      "japanese": "妨げる・阻む",
+      "example": {
+        "before": "The heavy rain began to",
+        "after": "our progress."
+      }
+    },
+    {
+      "id": "w005",
+      "english": "tenacious",
+      "japanese": "粘り強い・執拗な",
+      "example": {
+        "before": "He was",
+        "after": "in pursuing his goals."
+      }
+    },
+    {
+      "id": "w006",
+      "english": "ambiguous",
+      "japanese": "曖昧な・多義的な",
+      "example": null
+    },
+    {
+      "id": "w007",
+      "english": "meticulous",
+      "japanese": "細心の・几帳面な",
+      "example": {
+        "before": "She was",
+        "after": "in her research."
+      }
+    },
+    {
+      "id": "w008",
+      "english": "pragmatic",
+      "japanese": "実用的な・現実的な",
+      "example": {
+        "before": "We need a",
+        "after": "approach to solve this problem."
+      }
+    }
+  ]
+}
