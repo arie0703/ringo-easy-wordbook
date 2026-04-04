@@ -80,6 +80,7 @@
       "id": "w001",
       "english": "versatility",
       "japanese": "汎用性・多才さ",
+      "tags": ["eiken-1"],
       "example": {
         "before": "His",
         "after": "is vital to the team.",
@@ -90,6 +91,7 @@
       "id": "w002",
       "english": "adroit",
       "japanese": "巧みな・器用な",
+      "tags": ["eiken-1"],
       "example": {
         "before": "She was",
         "after": "at handling difficult negotiations.",
@@ -100,6 +102,7 @@
       "id": "w003",
       "english": "stigma",
       "japanese": "汚名・烙印",
+      "tags": ["eiken-1"],
       "example": null
     }
   ]
@@ -119,6 +122,7 @@ export type Word = {
   id: string;
   english: string;
   japanese: string;
+  tags: string[];           // カテゴリ・レベルタグ（例: "eiken-1"）
   example: WordExample | null;
 };
 

@@ -4,6 +4,9 @@
       "id": "w001",
       "english": "versatility",
       "japanese": "汎用性・多才さ",
+      "tags": [
+        "eiken-1"
+      ],
       "example": {
         "before": "His",
         "after": "is vital to the team.",
@@ -14,6 +17,9 @@
       "id": "w002",
       "english": "adroit",
       "japanese": "巧みな・器用な",
+      "tags": [
+        "eiken-1"
+      ],
       "example": {
         "before": "She was",
         "after": "at handling difficult negotiations.",
@@ -24,12 +30,18 @@
       "id": "w003",
       "english": "stigma",
       "japanese": "汚名・烙印",
+      "tags": [
+        "eiken-1"
+      ],
       "example": null
     },
     {
       "id": "w004",
       "english": "hamper",
       "japanese": "妨げる・阻む",
+      "tags": [
+        "eiken-1"
+      ],
       "example": {
         "before": "The heavy rain began to",
         "after": "our progress.",
@@ -40,6 +52,9 @@
       "id": "w005",
       "english": "tenacious",
       "japanese": "粘り強い・執拗な",
+      "tags": [
+        "eiken-1"
+      ],
       "example": {
         "before": "He was",
         "after": "in pursuing his goals.",
@@ -50,12 +65,18 @@
       "id": "w006",
       "english": "ambiguous",
       "japanese": "曖昧な・多義的な",
+      "tags": [
+        "eiken-1"
+      ],
       "example": null
     },
     {
       "id": "w007",
       "english": "meticulous",
       "japanese": "細心の・几帳面な",
+      "tags": [
+        "eiken-1"
+      ],
       "example": {
         "before": "She was",
         "after": "in her research.",
@@ -66,10 +87,1535 @@
       "id": "w008",
       "english": "pragmatic",
       "japanese": "実用的な・現実的な",
+      "tags": [
+        "eiken-1"
+      ],
       "example": {
         "before": "We need a",
         "after": "approach to solve this problem.",
         "translation": "この問題を解決するには現実的なアプローチが必要だ。"
+      }
+    },
+    {
+      "id": "w009",
+      "english": "acquiesce",
+      "japanese": "渋々従う・黙認する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He had no choice but to",
+        "after": "to their demands.",
+        "translation": "彼は彼らの要求に渋々従うしかなかった。"
+      }
+    },
+    {
+      "id": "w010",
+      "english": "ameliorate",
+      "japanese": "改善する・改良する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The new policy aims to",
+        "after": "living conditions in rural areas.",
+        "translation": "新しい政策は農村部の生活環境を改善することを目的としている。"
+      }
+    },
+    {
+      "id": "w011",
+      "english": "anachronism",
+      "japanese": "時代錯誤・時代遅れのもの",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w012",
+      "english": "antipathy",
+      "japanese": "反感・嫌悪",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She felt a deep",
+        "after": "toward dishonesty.",
+        "translation": "彼女は不誠実さに深い嫌悪を感じていた。"
+      }
+    },
+    {
+      "id": "w013",
+      "english": "apathy",
+      "japanese": "無関心・無気力",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Voter",
+        "after": "has been a growing concern in recent elections.",
+        "translation": "有権者の無関心は最近の選挙でますます懸念されている。"
+      }
+    },
+    {
+      "id": "w014",
+      "english": "appease",
+      "japanese": "なだめる・宥める",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The government tried to",
+        "after": "the angry protesters.",
+        "translation": "政府は怒った抗議者たちをなだめようとした。"
+      }
+    },
+    {
+      "id": "w015",
+      "english": "arbitrary",
+      "japanese": "恣意的な・独断的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The decision seemed completely",
+        "after": "and unfair.",
+        "translation": "その決定は全く恣意的で不公平に思えた。"
+      }
+    },
+    {
+      "id": "w016",
+      "english": "archaic",
+      "japanese": "旧式の・古風な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w017",
+      "english": "astute",
+      "japanese": "抜け目のない・鋭い",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The",
+        "after": "investor spotted the opportunity before anyone else.",
+        "translation": "その抜け目ない投資家は誰よりも早くチャンスを見つけた。"
+      }
+    },
+    {
+      "id": "w018",
+      "english": "atrocity",
+      "japanese": "残虐行為・暴挙",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w019",
+      "english": "audacious",
+      "japanese": "大胆な・向こう見ずな",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "It was an",
+        "after": "plan that few believed would succeed.",
+        "translation": "それは成功を信じる人がほとんどいない大胆な計画だった。"
+      }
+    },
+    {
+      "id": "w020",
+      "english": "austere",
+      "japanese": "質素な・厳格な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The monks lived an",
+        "after": "life in the mountains.",
+        "translation": "僧侶たちは山の中で質素な生活を送っていた。"
+      }
+    },
+    {
+      "id": "w021",
+      "english": "benevolent",
+      "japanese": "慈悲深い・親切な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The",
+        "after": "donor funded the construction of a new hospital.",
+        "translation": "その慈悲深い寄付者が新しい病院の建設に資金を提供した。"
+      }
+    },
+    {
+      "id": "w022",
+      "english": "blatant",
+      "japanese": "露骨な・見え透いた",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "It was a",
+        "after": "lie that everyone could see through.",
+        "translation": "それは誰もが見抜けるほど露骨な嘘だった。"
+      }
+    },
+    {
+      "id": "w023",
+      "english": "bolster",
+      "japanese": "支える・強化する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The government took measures to",
+        "after": "the struggling economy.",
+        "translation": "政府は苦境にある経済を支えるための措置を取った。"
+      }
+    },
+    {
+      "id": "w024",
+      "english": "brevity",
+      "japanese": "簡潔さ・短さ",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The speaker was praised for the",
+        "after": "and clarity of her presentation.",
+        "translation": "その発表者はプレゼンの簡潔さと明快さで称賛された。"
+      }
+    },
+    {
+      "id": "w025",
+      "english": "candid",
+      "japanese": "率直な・包み隠しのない",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She gave a",
+        "after": "assessment of the situation.",
+        "translation": "彼女は状況について率直な評価を述べた。"
+      }
+    },
+    {
+      "id": "w026",
+      "english": "capricious",
+      "japanese": "気まぐれな・変わりやすい",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w027",
+      "english": "censure",
+      "japanese": "非難する・叱責する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The politician was",
+        "after": "d for his inappropriate remarks.",
+        "translation": "その政治家は不適切な発言により非難された。"
+      }
+    },
+    {
+      "id": "w028",
+      "english": "coerce",
+      "japanese": "強制する・無理やりさせる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "They tried to",
+        "after": "him into signing the contract.",
+        "translation": "彼らは彼に無理やり契約書に署名させようとした。"
+      }
+    },
+    {
+      "id": "w029",
+      "english": "cogent",
+      "japanese": "説得力のある・明快な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She presented a",
+        "after": "argument that convinced the entire committee.",
+        "translation": "彼女は委員会全体を納得させる説得力のある議論を展開した。"
+      }
+    },
+    {
+      "id": "w030",
+      "english": "complacent",
+      "japanese": "自己満足した・安心しきった",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The team became",
+        "after": "after their early success.",
+        "translation": "チームは初期の成功の後に自己満足してしまった。"
+      }
+    },
+    {
+      "id": "w031",
+      "english": "concede",
+      "japanese": "認める・譲歩する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He finally had to",
+        "after": "that he was wrong.",
+        "translation": "彼はついに自分が間違っていたことを認めなければならなかった。"
+      }
+    },
+    {
+      "id": "w032",
+      "english": "condone",
+      "japanese": "大目に見る・黙認する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The school does not",
+        "after": "bullying of any kind.",
+        "translation": "その学校はいかなるいじめも黙認しない。"
+      }
+    },
+    {
+      "id": "w033",
+      "english": "conspicuous",
+      "japanese": "目立つ・人目を引く",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The red building was",
+        "after": "among the gray surroundings.",
+        "translation": "その赤い建物はグレーの周囲の中で目立っていた。"
+      }
+    },
+    {
+      "id": "w034",
+      "english": "convoluted",
+      "japanese": "複雑な・難解な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The instructions were so",
+        "after": "that nobody could follow them.",
+        "translation": "その説明はあまりにも複雑で誰も理解できなかった。"
+      }
+    },
+    {
+      "id": "w035",
+      "english": "curtail",
+      "japanese": "削減する・短縮する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The company had to",
+        "after": "its spending due to the recession.",
+        "translation": "会社は不況のため支出を削減しなければならなかった。"
+      }
+    },
+    {
+      "id": "w036",
+      "english": "cynical",
+      "japanese": "皮肉的な・冷笑的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He became increasingly",
+        "after": "about politicians' promises.",
+        "translation": "彼は政治家の約束についてますます皮肉的になっていった。"
+      }
+    },
+    {
+      "id": "w037",
+      "english": "debilitate",
+      "japanese": "衰弱させる・弱らせる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The chronic illness",
+        "after": "d him over the years.",
+        "translation": "慢性的な病気が何年もかけて彼を衰弱させた。"
+      }
+    },
+    {
+      "id": "w038",
+      "english": "decry",
+      "japanese": "非難する・酷評する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w039",
+      "english": "deliberate",
+      "japanese": "慎重な・故意の",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "It was a",
+        "after": "attempt to mislead the public.",
+        "translation": "それは大衆を欺こうとする故意の試みだった。"
+      }
+    },
+    {
+      "id": "w040",
+      "english": "denounce",
+      "japanese": "非難する・告発する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "World leaders gathered to",
+        "after": "the act of terrorism.",
+        "translation": "世界の指導者たちがテロ行為を非難するために集まった。"
+      }
+    },
+    {
+      "id": "w041",
+      "english": "deplete",
+      "japanese": "使い果たす・枯渇させる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Overfishing has",
+        "after": "d fish stocks in the ocean.",
+        "translation": "乱獲によって海の魚の資源が枯渇してしまった。"
+      }
+    },
+    {
+      "id": "w042",
+      "english": "despotic",
+      "japanese": "専制的な・横暴な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w043",
+      "english": "digress",
+      "japanese": "本題からそれる・脱線する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The professor tended to",
+        "after": "during lectures.",
+        "translation": "その教授は講義中に脱線する傾向があった。"
+      }
+    },
+    {
+      "id": "w044",
+      "english": "discern",
+      "japanese": "識別する・見極める",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "It was difficult to",
+        "after": "any pattern in the data.",
+        "translation": "データの中にパターンを見極めることは難しかった。"
+      }
+    },
+    {
+      "id": "w045",
+      "english": "disdain",
+      "japanese": "軽蔑・侮辱",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She looked at him with obvious",
+        "after": ".",
+        "translation": "彼女は明らかな軽蔑の目で彼を見た。"
+      }
+    },
+    {
+      "id": "w046",
+      "english": "dispel",
+      "japanese": "追い払う・消し去る",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The report aimed to",
+        "after": "common myths about the disease.",
+        "translation": "その報告書はその病気に関する一般的な誤解を払拭することを目的としていた。"
+      }
+    },
+    {
+      "id": "w047",
+      "english": "dissuade",
+      "japanese": "思いとどまらせる・反対する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His friends tried to",
+        "after": "him from taking the risky investment.",
+        "translation": "友人たちは彼に危険な投資を思いとどまらせようとした。"
+      }
+    },
+    {
+      "id": "w048",
+      "english": "dubious",
+      "japanese": "疑わしい・不確かな",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He was",
+        "after": "about the authenticity of the document.",
+        "translation": "彼はその文書の真正性について疑いを持っていた。"
+      }
+    },
+    {
+      "id": "w049",
+      "english": "eccentric",
+      "japanese": "風変わりな・型破りな",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The",
+        "after": "scientist refused to follow conventional methods.",
+        "translation": "その風変わりな科学者は従来の方法に従うことを拒否した。"
+      }
+    },
+    {
+      "id": "w050",
+      "english": "eloquent",
+      "japanese": "雄弁な・説得力のある",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She delivered an",
+        "after": "speech that moved the audience.",
+        "translation": "彼女は聴衆を感動させる雄弁なスピーチをした。"
+      }
+    },
+    {
+      "id": "w051",
+      "english": "ephemeral",
+      "japanese": "一時的な・はかない",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Fame can be",
+        "after": "in the world of entertainment.",
+        "translation": "芸能界では名声ははかないものだ。"
+      }
+    },
+    {
+      "id": "w052",
+      "english": "erratic",
+      "japanese": "不規則な・気まぐれな",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His",
+        "after": "behavior worried his colleagues.",
+        "translation": "彼の気まぐれな行動は同僚たちを不安にさせた。"
+      }
+    },
+    {
+      "id": "w053",
+      "english": "exacerbate",
+      "japanese": "悪化させる・激化させる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Stress can",
+        "after": "many health problems.",
+        "translation": "ストレスは多くの健康問題を悪化させることがある。"
+      }
+    },
+    {
+      "id": "w054",
+      "english": "exonerate",
+      "japanese": "無罪にする・疑いを晴らす",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "New evidence",
+        "after": "d the man who had been wrongly convicted.",
+        "translation": "新たな証拠が不当に有罪判決を受けた男性の疑いを晴らした。"
+      }
+    },
+    {
+      "id": "w055",
+      "english": "extol",
+      "japanese": "絶賛する・称える",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w056",
+      "english": "fallacious",
+      "japanese": "誤った・欺瞞的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The argument was based on a",
+        "after": "assumption.",
+        "translation": "その議論は誤った前提に基づいていた。"
+      }
+    },
+    {
+      "id": "w057",
+      "english": "fastidious",
+      "japanese": "好みがうるさい・几帳面な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w058",
+      "english": "fervent",
+      "japanese": "熱烈な・情熱的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She was a",
+        "after": "supporter of environmental protection.",
+        "translation": "彼女は環境保護の熱烈な支持者だった。"
+      }
+    },
+    {
+      "id": "w059",
+      "english": "flagrant",
+      "japanese": "著しい・目に余る",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "It was a",
+        "after": "violation of human rights.",
+        "translation": "それは目に余る人権侵害だった。"
+      }
+    },
+    {
+      "id": "w060",
+      "english": "foster",
+      "japanese": "育てる・促進する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The program is designed to",
+        "after": "creativity in young children.",
+        "translation": "そのプログラムは幼い子どもたちの創造性を育てるよう設計されている。"
+      }
+    },
+    {
+      "id": "w061",
+      "english": "frugal",
+      "japanese": "質素な・倹約的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Despite being wealthy, she lived a",
+        "after": "lifestyle.",
+        "translation": "裕福にもかかわらず、彼女は質素な生活を送っていた。"
+      }
+    },
+    {
+      "id": "w062",
+      "english": "futile",
+      "japanese": "無駄な・徒労の",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "All attempts to save the company proved",
+        "after": ".",
+        "translation": "会社を救うためのあらゆる試みが無駄に終わった。"
+      }
+    },
+    {
+      "id": "w063",
+      "english": "gregarious",
+      "japanese": "社交的な・群れをなす",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w064",
+      "english": "haphazard",
+      "japanese": "行き当たりばったりの・でたらめな",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The files were arranged in a",
+        "after": "manner.",
+        "translation": "ファイルは行き当たりばったりに並べられていた。"
+      }
+    },
+    {
+      "id": "w065",
+      "english": "heresy",
+      "japanese": "異端・異説",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w066",
+      "english": "hypocrite",
+      "japanese": "偽善者",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He was called a",
+        "after": "for preaching honesty while lying himself.",
+        "translation": "自分では嘘をつきながら誠実さを説くため、彼は偽善者と呼ばれた。"
+      }
+    },
+    {
+      "id": "w067",
+      "english": "impede",
+      "japanese": "妨げる・阻む",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Bureaucratic red tape can",
+        "after": "economic growth.",
+        "translation": "官僚的な形式主義が経済成長を妨げることがある。"
+      }
+    },
+    {
+      "id": "w068",
+      "english": "impetuous",
+      "japanese": "衝動的な・性急な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His",
+        "after": "decision led to serious consequences.",
+        "translation": "彼の衝動的な決断が深刻な結果をもたらした。"
+      }
+    },
+    {
+      "id": "w069",
+      "english": "implicit",
+      "japanese": "暗黙の・含蓄のある",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "There was an",
+        "after": "understanding between the two leaders.",
+        "translation": "二人の指導者の間には暗黙の了解があった。"
+      }
+    },
+    {
+      "id": "w070",
+      "english": "inadvertent",
+      "japanese": "うっかりした・不注意な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w071",
+      "english": "incite",
+      "japanese": "扇動する・刺激する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The speech was accused of trying to",
+        "after": "violence.",
+        "translation": "そのスピーチは暴力を扇動しようとしたと非難された。"
+      }
+    },
+    {
+      "id": "w072",
+      "english": "indulge",
+      "japanese": "ふける・甘やかす",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She allowed herself to",
+        "after": "in a piece of chocolate cake.",
+        "translation": "彼女はチョコレートケーキを一切れ食べることを自分に許した。"
+      }
+    },
+    {
+      "id": "w073",
+      "english": "inevitable",
+      "japanese": "避けられない・必然的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Conflict between the two nations seemed",
+        "after": ".",
+        "translation": "二国間の衝突は避けられないように思われた。"
+      }
+    },
+    {
+      "id": "w074",
+      "english": "innate",
+      "japanese": "生まれつきの・本来の",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Children have an",
+        "after": "curiosity about the world around them.",
+        "translation": "子どもたちは周囲の世界に対して生まれつきの好奇心を持っている。"
+      }
+    },
+    {
+      "id": "w075",
+      "english": "intrepid",
+      "japanese": "勇敢な・果敢な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The",
+        "after": "explorer ventured into uncharted territory.",
+        "translation": "その勇敢な探検家は未踏の地に足を踏み入れた。"
+      }
+    },
+    {
+      "id": "w076",
+      "english": "irrevocable",
+      "japanese": "取り消せない・不変の",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Once signed, the agreement was",
+        "after": ".",
+        "translation": "一度署名されると、その合意は取り消せないものとなった。"
+      }
+    },
+    {
+      "id": "w077",
+      "english": "jeopardize",
+      "japanese": "危険にさらす・危うくする",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His reckless behavior could",
+        "after": "the entire project.",
+        "translation": "彼の無謀な行動がプロジェクト全体を危険にさらす可能性があった。"
+      }
+    },
+    {
+      "id": "w078",
+      "english": "lament",
+      "japanese": "嘆く・悲しむ",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She",
+        "after": "ed the loss of her childhood home.",
+        "translation": "彼女は幼少期の家を失ったことを嘆いた。"
+      }
+    },
+    {
+      "id": "w079",
+      "english": "lethargic",
+      "japanese": "無気力な・だるい",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w080",
+      "english": "mitigate",
+      "japanese": "和らげる・軽減する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Measures were taken to",
+        "after": "the impact of the earthquake.",
+        "translation": "地震の影響を軽減するための措置が取られた。"
+      }
+    },
+    {
+      "id": "w081",
+      "english": "mundane",
+      "japanese": "平凡な・日常的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Even the most",
+        "after": "tasks can feel rewarding if done mindfully.",
+        "translation": "最も平凡な作業でも、意識を持って行えばやりがいを感じられる。"
+      }
+    },
+    {
+      "id": "w082",
+      "english": "nonchalant",
+      "japanese": "無頓着な・平然とした",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He appeared",
+        "after": "despite the seriousness of the situation.",
+        "translation": "状況の深刻さにもかかわらず、彼は平然としていた。"
+      }
+    },
+    {
+      "id": "w083",
+      "english": "obscure",
+      "japanese": "不明瞭な・無名の",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The meaning of the poem remained",
+        "after": "to most readers.",
+        "translation": "その詩の意味はほとんどの読者にとって不明瞭なままだった。"
+      }
+    },
+    {
+      "id": "w084",
+      "english": "obstinate",
+      "japanese": "頑固な・強情な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He was too",
+        "after": "to admit that he needed help.",
+        "translation": "彼は助けが必要だと認めるには頑固すぎた。"
+      }
+    },
+    {
+      "id": "w085",
+      "english": "ominous",
+      "japanese": "不吉な・縁起の悪い",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Dark clouds gathered, an",
+        "after": "sign of the coming storm.",
+        "translation": "黒い雲が集まり、嵐が来る不吉な兆しだった。"
+      }
+    },
+    {
+      "id": "w086",
+      "english": "ostracize",
+      "japanese": "排斥する・仲間はずれにする",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The child was",
+        "after": "d by his classmates for being different.",
+        "translation": "その子どもは違いを理由に同級生から仲間はずれにされた。"
+      }
+    },
+    {
+      "id": "w087",
+      "english": "paramount",
+      "japanese": "最重要の・至高の",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Safety is of",
+        "after": "importance in this industry.",
+        "translation": "この業界では安全が最重要事項だ。"
+      }
+    },
+    {
+      "id": "w088",
+      "english": "perfidious",
+      "japanese": "裏切りの・不誠実な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w089",
+      "english": "pervasive",
+      "japanese": "広まった・浸透している",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The use of smartphones has become",
+        "after": "in modern society.",
+        "translation": "スマートフォンの使用は現代社会に広く浸透した。"
+      }
+    },
+    {
+      "id": "w090",
+      "english": "placate",
+      "japanese": "なだめる・慰める",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The manager tried to",
+        "after": "the dissatisfied customers.",
+        "translation": "マネージャーは不満を持つ顧客をなだめようとした。"
+      }
+    },
+    {
+      "id": "w091",
+      "english": "plausible",
+      "japanese": "もっともらしい・信憑性のある",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His explanation sounded",
+        "after": "but was later proven false.",
+        "translation": "彼の説明はもっともらしく聞こえたが、後に虚偽であることが証明された。"
+      }
+    },
+    {
+      "id": "w092",
+      "english": "poignant",
+      "japanese": "胸を打つ・心に染みる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The film had a",
+        "after": "ending that left the audience in tears.",
+        "translation": "その映画は観客を涙させる胸を打つ結末だった。"
+      }
+    },
+    {
+      "id": "w093",
+      "english": "pompous",
+      "japanese": "尊大な・ 気取った",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w094",
+      "english": "precarious",
+      "japanese": "不安定な・危うい",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The company's financial situation had become",
+        "after": ".",
+        "translation": "会社の財政状況が不安定になっていた。"
+      }
+    },
+    {
+      "id": "w095",
+      "english": "precocious",
+      "japanese": "早熟な・ませた",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The",
+        "after": "child could read at the age of three.",
+        "translation": "その早熟な子どもは3歳で字が読めた。"
+      }
+    },
+    {
+      "id": "w096",
+      "english": "profound",
+      "japanese": "深遠な・根本的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The discovery had a",
+        "after": "impact on our understanding of the universe.",
+        "translation": "その発見は宇宙への理解に根本的な影響をもたらした。"
+      }
+    },
+    {
+      "id": "w097",
+      "english": "prolific",
+      "japanese": "多作な・多産の",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She was a",
+        "after": "writer who published over 50 novels.",
+        "translation": "彼女は50冊以上の小説を出版した多作な作家だった。"
+      }
+    },
+    {
+      "id": "w098",
+      "english": "prudent",
+      "japanese": "思慮深い・慎重な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "It would be",
+        "after": "to save money for emergencies.",
+        "translation": "緊急事態に備えてお金を貯めることは思慮深いことだ。"
+      }
+    },
+    {
+      "id": "w099",
+      "english": "rampant",
+      "japanese": "横行する・はびこる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Corruption was",
+        "after": "throughout the organization.",
+        "translation": "組織全体に腐敗が横行していた。"
+      }
+    },
+    {
+      "id": "w100",
+      "english": "rebuke",
+      "japanese": "叱責する・非難する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The teacher",
+        "after": "d the student for cheating on the exam.",
+        "translation": "教師は試験でカンニングをした生徒を叱責した。"
+      }
+    },
+    {
+      "id": "w101",
+      "english": "reconcile",
+      "japanese": "和解させる・折り合いをつける",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "It was difficult to",
+        "after": "the two conflicting reports.",
+        "translation": "2つの相反する報告を折り合いをつけることは難しかった。"
+      }
+    },
+    {
+      "id": "w102",
+      "english": "relentless",
+      "japanese": "執拗な・容赦ない",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She faced",
+        "after": "criticism from her opponents.",
+        "translation": "彼女は対立者からの容赦ない批判に直面した。"
+      }
+    },
+    {
+      "id": "w103",
+      "english": "repudiate",
+      "japanese": "拒絶する・否定する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w104",
+      "english": "resilient",
+      "japanese": "回復力のある・弾力性のある",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Children are often more",
+        "after": "than adults give them credit for.",
+        "translation": "子どもたちは大人が思う以上に回復力があることが多い。"
+      }
+    },
+    {
+      "id": "w105",
+      "english": "reticent",
+      "japanese": "無口な・口数の少ない",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He was",
+        "after": "about sharing his personal life with others.",
+        "translation": "彼は自分のプライベートを他人と共有することに対して無口だった。"
+      }
+    },
+    {
+      "id": "w106",
+      "english": "scrutinize",
+      "japanese": "綿密に調べる・精査する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The auditors",
+        "after": "d every financial record.",
+        "translation": "監査人はすべての財務記録を綿密に調べた。"
+      }
+    },
+    {
+      "id": "w107",
+      "english": "spurious",
+      "japanese": "偽の・でたらめな",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": null
+    },
+    {
+      "id": "w108",
+      "english": "steadfast",
+      "japanese": "不動の・断固とした",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She remained",
+        "after": "in her commitment to justice.",
+        "translation": "彼女は正義への献身において断固とした姿勢を保ち続けた。"
+      }
+    },
+    {
+      "id": "w109",
+      "english": "savor",
+      "japanese": "味わう・楽しむ",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Take time to",
+        "after": "every moment of your vacation.",
+        "translation": "休暇の一瞬一瞬を味わう時間を持ちなさい。"
+      }
+    },
+    {
+      "id": "w110",
+      "english": "unscathed",
+      "japanese": "無傷で・損なわれずに",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He emerged from the accident",
+        "after": ".",
+        "translation": "彼は事故から無傷で出てきた。"
+      }
+    },
+    {
+      "id": "w111",
+      "english": "farce",
+      "japanese": "茶番劇・笑劇",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The trial turned into a complete",
+        "after": ".",
+        "translation": "裁判は完全な茶番劇と化した。"
+      }
+    },
+    {
+      "id": "w112",
+      "english": "interject",
+      "japanese": "口を挟む・横から言う",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She",
+        "after": "ed a comment during the meeting.",
+        "translation": "彼女は会議中に口を挟んでコメントした。"
+      }
+    },
+    {
+      "id": "w113",
+      "english": "reconnaissance",
+      "japanese": "偵察・事前調査",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The soldiers conducted a",
+        "after": "of the area before advancing.",
+        "translation": "兵士たちは前進する前にその地域の偵察を行った。"
+      }
+    },
+    {
+      "id": "w114",
+      "english": "infatuated",
+      "japanese": "心を奪われた・夢中になった",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He was completely",
+        "after": "with her from the moment they met.",
+        "translation": "彼は出会った瞬間から彼女に完全に心を奪われていた。"
+      }
+    },
+    {
+      "id": "w115",
+      "english": "stifle",
+      "japanese": "抑制する・窒息させる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The strict rules",
+        "after": "d creativity in the workplace.",
+        "translation": "厳格なルールが職場での創造性を抑制した。"
+      }
+    },
+    {
+      "id": "w116",
+      "english": "confiscate",
+      "japanese": "没収する・押収する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The teacher",
+        "after": "d the student's phone during class.",
+        "translation": "教師は授業中に生徒のスマートフォンを没収した。"
+      }
+    },
+    {
+      "id": "w117",
+      "english": "conjure",
+      "japanese": "呼び起こす・魔法で呼び出す",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The smell of fresh bread",
+        "after": "d memories of her childhood.",
+        "translation": "新鮮なパンの香りが幼少期の記憶を呼び起こした。"
+      }
+    },
+    {
+      "id": "w118",
+      "english": "rout",
+      "japanese": "大敗・完敗させる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The home team suffered a humiliating",
+        "after": "in the final match.",
+        "translation": "ホームチームは決勝戦で惨めな大敗を喫した。"
+      }
+    },
+    {
+      "id": "w119",
+      "english": "echelon",
+      "japanese": "階層・段階",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She reached the upper",
+        "after": "s of the corporate world.",
+        "translation": "彼女は企業界の上位階層に達した。"
+      }
+    },
+    {
+      "id": "w120",
+      "english": "fickle",
+      "japanese": "気まぐれな・移り気な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Public opinion can be",
+        "after": "and unpredictable.",
+        "translation": "世論は気まぐれで予測不可能なことがある。"
+      }
+    },
+    {
+      "id": "w121",
+      "english": "capitulate",
+      "japanese": "降伏する・屈服する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The city finally",
+        "after": "d after a long siege.",
+        "translation": "その都市は長い包囲の後についに降伏した。"
+      }
+    },
+    {
+      "id": "w122",
+      "english": "reprehensible",
+      "japanese": "非難すべき・言語道断の",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His behavior was morally",
+        "after": "and could not be excused.",
+        "translation": "彼の行動は道徳的に非難すべきものであり、弁解の余地がなかった。"
+      }
+    },
+    {
+      "id": "w123",
+      "english": "exuberant",
+      "japanese": "活気あふれる・生き生きとした",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The children were",
+        "after": "on the last day of school.",
+        "translation": "子どもたちは学校の最終日に生き生きとしていた。"
+      }
+    },
+    {
+      "id": "w124",
+      "english": "acrid",
+      "japanese": "刺激的な・鼻をつく",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The",
+        "after": "smell of smoke filled the room.",
+        "translation": "刺激的な煙の匂いが部屋に充満した。"
+      }
+    },
+    {
+      "id": "w125",
+      "english": "penchant",
+      "japanese": "好み・傾向",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She has a",
+        "after": "for collecting rare books.",
+        "translation": "彼女は希少本を集める好みがある。"
+      }
+    },
+    {
+      "id": "w126",
+      "english": "succinct",
+      "japanese": "簡潔な・端的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His",
+        "after": "explanation cleared up all the confusion.",
+        "translation": "彼の簡潔な説明がすべての混乱を解消した。"
+      }
+    },
+    {
+      "id": "w127",
+      "english": "infraction",
+      "japanese": "違反・反則",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Any",
+        "after": "of the rules will result in disqualification.",
+        "translation": "規則への違反はいかなるものも失格につながる。"
+      }
+    },
+    {
+      "id": "w128",
+      "english": "detract",
+      "japanese": "損なう・価値を下げる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The noise from the street",
+        "after": "ed from the overall dining experience.",
+        "translation": "通りの騒音がダイニング全体の体験を損なった。"
+      }
+    },
+    {
+      "id": "w129",
+      "english": "lurch",
+      "japanese": "よろめく・急に傾く",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The bus",
+        "after": "ed forward when the driver braked suddenly.",
+        "translation": "運転手が急ブレーキをかけると、バスが前方に急に揺れた。"
+      }
+    },
+    {
+      "id": "w130",
+      "english": "rubble",
+      "japanese": "瓦礫・がれき",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The earthquake reduced the building to",
+        "after": ".",
+        "translation": "地震はその建物を瓦礫と化した。"
       }
     }
   ]
