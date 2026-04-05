@@ -44,6 +44,7 @@ export function useQuiz(mode: QuizMode) {
   }, [allWords, mode]);
 
   const [index, setIndex] = useState(0);
+  const [results, setResults] = useState<{ question: QuizQuestion; correct: boolean }[]>([]);
 
   const question = useMemo(
     () => (index < pool.length ? buildQuestion(pool[index], allWords, mode) : null),
@@ -62,6 +63,7 @@ export function useQuiz(mode: QuizMode) {
         correct,
         answeredAt: Date.now(),
       });
+      setResults((prev) => [...prev, { question, correct }]);
       return { correct };
     },
     [question, mode, addRecord]
@@ -71,5 +73,5 @@ export function useQuiz(mode: QuizMode) {
     setIndex((i) => i + 1);
   }, []);
 
-  return { question, next, answer, finished, index, total: pool.length };
+  return { question, next, answer, finished, index, total: pool.length, results };
 }
