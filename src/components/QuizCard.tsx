@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import type { QuizQuestion } from "../types";
 import { ChoiceButton } from "./ChoiceButton";
+import { useSpeech } from "../hooks/useSpeech";
 
 type Props = {
   question: QuizQuestion;
@@ -14,6 +15,8 @@ export function QuizCard({ question, questionNumber, total, onNext, onAnswer }: 
   const [selected, setSelected] = useState<number | null>(null);
   const [correct, setCorrect] = useState<boolean | null>(null);
   const [tapEnabled, setTapEnabled] = useState(false);
+
+  const { speak } = useSpeech(question.word.english);
 
   useEffect(() => {
     if (selected !== null) {
@@ -50,7 +53,7 @@ export function QuizCard({ question, questionNumber, total, onNext, onAnswer }: 
           {questionNumber} / {total}
         </div>
 
-        <div data-element="word-card" className="bg-indigo-950 rounded-2xl p-6 text-center">
+        <div data-element="word-card" className="bg-indigo-950 rounded-2xl p-6 text-center cursor-pointer" onClick={speak}>
           <p className="text-xs text-indigo-400 font-semibold uppercase tracking-widest mb-2">English</p>
           <p data-element="word-english" className="text-3xl font-bold text-indigo-200">{question.word.english}</p>
         </div>
