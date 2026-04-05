@@ -1617,6 +1617,510 @@
         "after": ".",
         "translation": "地震はその建物を瓦礫と化した。"
       }
+    },
+    {
+      "id": "w131",
+      "english": "audacity",
+      "japanese": "大胆さ・厚かましさ",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "He had the",
+        "after": "to challenge the CEO's decision.",
+        "translation": "彼はCEOの決定に異議を唱えるという大胆さを持っていた。"
+      }
+    },
+    {
+      "id": "w132",
+      "english": "malaise",
+      "japanese": "不調・倦怠感",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "A sense of",
+        "after": "spread through the workforce after the layoffs.",
+        "translation": "リストラの後、従業員の間に倦怠感が広まった。"
+      }
+    },
+    {
+      "id": "w133",
+      "english": "scuttle",
+      "japanese": "急いで逃げる・(計画などを)台無しにする",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The sudden rain forced us to",
+        "after": "our outdoor plans.",
+        "translation": "突然の雨で屋外の計画が台無しになった。"
+      }
+    },
+    {
+      "id": "w134",
+      "english": "intravenous",
+      "japanese": "静脈内の・点滴の",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The patient received",
+        "after": "fluids to stay hydrated.",
+        "translation": "患者は水分補給のために点滴を受けた。"
+      }
+    },
+    {
+      "id": "w135",
+      "english": "surreptitiously",
+      "japanese": "こっそりと・秘密裏に",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "She",
+        "after": "slipped the note under the door.",
+        "translation": "彼女はこっそりとメモをドアの下に差し込んだ。"
+      }
+    },
+    {
+      "id": "w136",
+      "english": "grudge",
+      "japanese": "恨み・悪意",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "He bore a",
+        "after": "against his former partner for years.",
+        "translation": "彼は元パートナーに何年もの間恨みを持ち続けた。"
+      }
+    },
+    {
+      "id": "w137",
+      "english": "converge",
+      "japanese": "収束する・一点に集まる",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The two rivers",
+        "after": "near the ancient city.",
+        "translation": "二つの川は古代都市の近くで合流する。"
+      }
+    },
+    {
+      "id": "w138",
+      "english": "thrifty",
+      "japanese": "倹約な・つつましい",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "Her",
+        "after": "habits allowed her to save enough for a house.",
+        "translation": "彼女の倹約な習慣のおかげで、家を買うのに十分な貯金ができた。"
+      }
+    },
+    {
+      "id": "w139",
+      "english": "consignment",
+      "japanese": "委託・積み荷",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "A",
+        "after": "of rare books arrived at the auction house.",
+        "translation": "希少本の荷物がオークション会場に届いた。"
+      }
+    },
+    {
+      "id": "w140",
+      "english": "irrepressible",
+      "japanese": "抑えられない・はちきれんばかりの",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "Her",
+        "after": "enthusiasm inspired everyone around her.",
+        "translation": "彼女の抑えられない熱意は周りの人たちを鼓舞した。"
+      }
+    },
+    {
+      "id": "w141",
+      "english": "debrief",
+      "japanese": "事後報告をする・任務報告を聴取する",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The commander gathered the soldiers to",
+        "after": "them after the mission.",
+        "translation": "司令官は任務後、兵士たちを集めて事後報告を行った。"
+      }
+    },
+    {
+      "id": "w142",
+      "english": "expropriate",
+      "japanese": "(財産を)収用する・没収する",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The government decided to",
+        "after": "the land for public use.",
+        "translation": "政府は公共用途のためにその土地を収用することを決定した。"
+      }
+    },
+    {
+      "id": "w143",
+      "english": "relish",
+      "japanese": "楽しむ・堪能する",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "She seemed to",
+        "after": "every moment of the competition.",
+        "translation": "彼女は競技の一瞬一瞬を楽しんでいるように見えた。"
+      }
+    },
+    {
+      "id": "w144",
+      "english": "atrocious",
+      "japanese": "残忍な・ひどい",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The soldiers committed",
+        "after": "acts during the conflict.",
+        "translation": "兵士たちは紛争中に残忍な行為を行った。"
+      }
+    },
+    {
+      "id": "w145",
+      "english": "sumptuous",
+      "japanese": "豪勢な・贅沢な",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The guests were treated to a",
+        "after": "banquet.",
+        "translation": "ゲストたちは豪勢な宴会でもてなされた。"
+      }
+    },
+    {
+      "id": "w146",
+      "english": "profusion",
+      "japanese": "豊富・多量",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The garden was filled with a",
+        "after": "of colorful flowers.",
+        "translation": "庭はカラフルな花々で溢れていた。"
+      }
+    },
+    {
+      "id": "w147",
+      "english": "idly",
+      "japanese": "ぼんやりと・何もせずに",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "He sat",
+        "after": "by the window, watching the rain fall.",
+        "translation": "彼は窓際でぼんやりと座り、雨が降るのを眺めていた。"
+      }
+    },
+    {
+      "id": "w148",
+      "english": "quizzical",
+      "japanese": "不思議そうな・からかうような",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "She gave him a",
+        "after": "look when he mentioned the plan.",
+        "translation": "彼が計画を口にしたとき、彼女は不思議そうな目で彼を見た。"
+      }
+    },
+    {
+      "id": "w149",
+      "english": "dupe",
+      "japanese": "だます・騙される人",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The scammer managed to",
+        "after": "dozens of victims.",
+        "translation": "詐欺師は何十人もの被害者を騙すことに成功した。"
+      }
+    },
+    {
+      "id": "w150",
+      "english": "proscribe",
+      "japanese": "禁止する・追放する",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The organization decided to",
+        "after": "the use of certain chemicals.",
+        "translation": "その組織は特定の化学物質の使用を禁止することを決定した。"
+      }
+    },
+    {
+      "id": "w151",
+      "english": "slam",
+      "japanese": "ひどく批判する・叩きつける",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "Critics were quick to",
+        "after": "the new policy as ineffective.",
+        "translation": "批評家たちはすぐにその新しい政策を非効果的だと批判した。"
+      }
+    },
+    {
+      "id": "w152",
+      "english": "glitch",
+      "japanese": "不具合・小さな障害",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "A technical",
+        "after": "caused the entire system to shut down.",
+        "translation": "技術的な不具合がシステム全体のシャットダウンを引き起こした。"
+      }
+    },
+    {
+      "id": "w153",
+      "english": "rant",
+      "japanese": "わめき立てる・激しく非難する",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "He began to",
+        "after": "about the unfair treatment he received.",
+        "translation": "彼は自分が受けた不公平な扱いについてわめき始めた。"
+      }
+    },
+    {
+      "id": "w154",
+      "english": "orator",
+      "japanese": "演説者・雄弁家",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The famous",
+        "after": "moved the crowd with his powerful speech.",
+        "translation": "その有名な演説者は力強いスピーチで聴衆を感動させた。"
+      }
+    },
+    {
+      "id": "w155",
+      "english": "frisk",
+      "japanese": "身体検査をする・元気よく動き回る",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "Security officers were required to",
+        "after": "all passengers at the gate.",
+        "translation": "警備員はゲートで全乗客の身体検査を行うことが求められた。"
+      }
+    },
+    {
+      "id": "w156",
+      "english": "secluded",
+      "japanese": "人里離れた・隔絶された",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "They built their home in a",
+        "after": "valley far from the city.",
+        "translation": "彼らは街から遠く離れた人里離れた渓谷に家を建てた。"
+      }
+    },
+    {
+      "id": "w157",
+      "english": "expletive",
+      "japanese": "罵り言葉・感嘆詞",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "He muttered an",
+        "after": "under his breath when he dropped the phone.",
+        "translation": "電話を落としたとき、彼は口の中で罵り言葉をつぶやいた。"
+      }
+    },
+    {
+      "id": "w158",
+      "english": "clinch",
+      "japanese": "確定する・取り決める",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The team needed one more win to",
+        "after": "the championship.",
+        "translation": "チームはチャンピオンシップを確定させるためにもう一勝必要だった。"
+      }
+    },
+    {
+      "id": "w159",
+      "english": "congenial",
+      "japanese": "気の合う・快適な",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The new colleague proved to be a",
+        "after": "addition to the team.",
+        "translation": "新しい同僚はチームにとって気の合う存在であることがわかった。"
+      }
+    },
+    {
+      "id": "w160",
+      "english": "headway",
+      "japanese": "進展・前進",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The researchers have made significant",
+        "after": "in finding a cure.",
+        "translation": "研究者たちは治療法の発見において大きな進展を遂げた。"
+      }
+    },
+    {
+      "id": "w161",
+      "english": "dormant",
+      "japanese": "休眠中の・活動していない",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The volcano had been",
+        "after": "for over a century before it erupted.",
+        "translation": "その火山は噴火する前の1世紀以上にわたって休眠状態だった。"
+      }
+    },
+    {
+      "id": "w162",
+      "english": "forgo",
+      "japanese": "断念する・差し控える",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "She decided to",
+        "after": "her vacation to meet the project deadline.",
+        "translation": "彼女はプロジェクトの締め切りに間に合わせるために休暇を断念することにした。"
+      }
+    },
+    {
+      "id": "w163",
+      "english": "rife",
+      "japanese": "蔓延している・(悪いことが)横行している",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The city was",
+        "after": "with rumors about the scandal.",
+        "translation": "スキャンダルに関する噂が街に蔓延していた。"
+      }
+    },
+    {
+      "id": "w164",
+      "english": "restraint",
+      "japanese": "抑制・自制心",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The negotiator showed great",
+        "after": "in the face of provocation.",
+        "translation": "交渉担当者は挑発に直面しても大きな自制心を示した。"
+      }
+    },
+    {
+      "id": "w165",
+      "english": "intermittently",
+      "japanese": "断続的に・途切れ途切れに",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "The signal has been cutting out",
+        "after": "throughout the day.",
+        "translation": "その日は一日中断続的に信号が途切れていた。"
+      }
+    },
+    {
+      "id": "w166",
+      "english": "abet",
+      "japanese": "(犯罪などを)助長する・手助けする",
+      "tags": [
+        "eiken-1",
+        "ex7"
+      ],
+      "example": {
+        "before": "Anyone who helps to",
+        "after": "a crime will face serious charges.",
+        "translation": "犯罪を幇助する者は厳しい罪に問われる。"
+      }
     }
   ]
 }
