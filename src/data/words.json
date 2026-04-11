@@ -2563,6 +2563,292 @@
         "after": "through the organization slowly.",
         "translation": "新しいアイデアがゆっくりと組織全体に浸透し始めた。"
       }
+    },
+    {
+      "id": "w201",
+      "english": "fret",
+      "japanese": "くよくよ悩む・心配する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She tends to",
+        "after": "over minor details instead of focusing on the big picture.",
+        "translation": "彼女は全体像に集中する代わりに些細な細部についてくよくよ悩む傾向がある。"
+      }
+    },
+    {
+      "id": "w202",
+      "english": "denigrate",
+      "japanese": "貶める・中傷する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He had no right to",
+        "after": "her achievements in front of the entire team.",
+        "translation": "彼はチーム全員の前で彼女の功績を貶める権利はなかった。"
+      }
+    },
+    {
+      "id": "w203",
+      "english": "disparate",
+      "japanese": "異なる・本質的に異質な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The report brought together",
+        "after": "data from a wide range of sources.",
+        "translation": "そのレポートは幅広い出典から異質なデータをまとめたものだった。"
+      }
+    },
+    {
+      "id": "w204",
+      "english": "preclude",
+      "japanese": "妨げる・不可能にする",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His injury may",
+        "after": "him from competing in the upcoming tournament.",
+        "translation": "彼の怪我は今後のトーナメントへの出場を妨げるかもしれない。"
+      }
+    },
+    {
+      "id": "w205",
+      "english": "besiege",
+      "japanese": "包囲する・押しかける",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Reporters began to",
+        "after": "the politician with questions after the scandal broke.",
+        "translation": "スキャンダルが発覚した後、記者たちはその政治家に質問攻めにした。"
+      }
+    },
+    {
+      "id": "w206",
+      "english": "bemoan",
+      "japanese": "嘆く・悲しむ",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Residents continued to",
+        "after": "the lack of public transportation in their area.",
+        "translation": "住民たちは自分たちの地域における公共交通機関の不足を嘆き続けた。"
+      }
+    },
+    {
+      "id": "w207",
+      "english": "botch",
+      "japanese": "台無しにする・しくじる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The contractor managed to",
+        "after": "the renovation job completely.",
+        "translation": "その請負業者は改装工事を完全に台無しにしてしまった。"
+      }
+    },
+    {
+      "id": "w208",
+      "english": "bout",
+      "japanese": "一試合・発作・一時期",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She recovered slowly from a severe",
+        "after": "of flu that kept her bedridden for a week.",
+        "translation": "彼女は1週間寝込ませた重篤なインフルエンザの発作からゆっくりと回復した。"
+      }
+    },
+    {
+      "id": "w209",
+      "english": "pertinent",
+      "japanese": "関連する・適切な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Please include only information that is",
+        "after": "to the case at hand.",
+        "translation": "目の前のケースに関連する情報のみを含めるようにしてください。"
+      }
+    },
+    {
+      "id": "w210",
+      "english": "bane",
+      "japanese": "悩みの種・災い",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Procrastination has been the",
+        "after": "of his professional life.",
+        "translation": "先延ばし癖が彼のプロとしての人生の悩みの種であり続けた。"
+      }
+    },
+    {
+      "id": "w211",
+      "english": "tacit",
+      "japanese": "暗黙の・無言の",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "There was a",
+        "after": "agreement among the team members to avoid the topic.",
+        "translation": "チームメンバーの間でその話題を避けるという暗黙の合意があった。"
+      }
+    },
+    {
+      "id": "w212",
+      "english": "mesmerize",
+      "japanese": "魅了する・催眠術をかける",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The performer managed to",
+        "after": "the audience with her stunning acrobatics.",
+        "translation": "その演者は見事な曲芸で観客を魅了することに成功した。"
+      }
+    },
+    {
+      "id": "w213",
+      "english": "insinuate",
+      "japanese": "ほのめかす・遠回しに示唆する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He seemed to",
+        "after": "that she was responsible for the mistake.",
+        "translation": "彼は彼女がその間違いに責任があるとほのめかしているようだった。"
+      }
+    },
+    {
+      "id": "w214",
+      "english": "falter",
+      "japanese": "よろめく・ためらう・揺らぐ",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His confidence began to",
+        "after": "as the pressure of the competition increased.",
+        "translation": "競争のプレッシャーが増すにつれて彼の自信は揺らぎ始めた。"
+      }
+    },
+    {
+      "id": "w215",
+      "english": "wilt",
+      "japanese": "しおれる・気力を失う",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The flowers began to",
+        "after": "in the intense summer heat.",
+        "translation": "激しい夏の暑さの中で花々はしおれ始めた。"
+      }
+    },
+    {
+      "id": "w216",
+      "english": "reprieve",
+      "japanese": "一時的な救済・執行猶予",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The last-minute funding gave the struggling school a brief",
+        "after": "from closure.",
+        "translation": "土壇場の資金援助により、苦境に立たされた学校は閉校を免れる一時的な救済を得た。"
+      }
+    },
+    {
+      "id": "w217",
+      "english": "ebb",
+      "japanese": "引く・衰える・干潮",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His enthusiasm for the project began to",
+        "after": "after months of little progress.",
+        "translation": "数ヶ月間ほとんど進展がなく、プロジェクトへの彼の熱意は衰え始めた。"
+      }
+    },
+    {
+      "id": "w218",
+      "english": "blunder",
+      "japanese": "大失敗・へまをする",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The diplomat's",
+        "after": "caused a temporary strain in relations between the two countries.",
+        "translation": "その外交官の大失敗は2カ国間の関係に一時的な緊張をもたらした。"
+      }
+    },
+    {
+      "id": "w219",
+      "english": "proliferate",
+      "japanese": "急増する・拡散する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Misinformation tends to",
+        "after": "rapidly on social media platforms.",
+        "translation": "誤情報はソーシャルメディアプラットフォーム上で急速に拡散する傾向がある。"
+      }
+    },
+    {
+      "id": "w220",
+      "english": "coax",
+      "japanese": "なだめてさせる・うまく説得する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "It took her an hour to",
+        "after": "the frightened cat out from under the bed.",
+        "translation": "怯えた猫をベッドの下から出すように説得するのに彼女は1時間かかった。"
+      }
+    },
+    {
+      "id": "w221",
+      "english": "teem",
+      "japanese": "あふれかえる・充満する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The river used to",
+        "after": "with fish before the factory was built upstream.",
+        "translation": "上流に工場が建設される前、その川は魚であふれていた。"
+      }
+    },
+    {
+      "id": "w222",
+      "english": "vanity",
+      "japanese": "虚栄心・無益さ",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His",
+        "after": "prevented him from admitting that he had made a mistake.",
+        "translation": "虚栄心が彼に間違いを犯したことを認めさせなかった。"
+      }
     }
   ]
 }
