@@ -2849,6 +2849,487 @@
         "after": "prevented him from admitting that he had made a mistake.",
         "translation": "虚栄心が彼に間違いを犯したことを認めさせなかった。"
       }
+    },
+    {
+      "id": "w223",
+      "english": "insolent",
+      "japanese": "生意気な・横柄な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His insolent",
+        "after": "comments angered the whole class.",
+        "translation": "彼の生意気な発言はクラス全員を怒らせた。"
+      }
+    },
+    {
+      "id": "w224",
+      "english": "rig",
+      "japanese": "不正に操作する・仕組む",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "They tried to",
+        "after": "the election in their favor.",
+        "translation": "彼らは選挙を自分たちに有利に仕組もうとした。"
+      }
+    },
+    {
+      "id": "w225",
+      "english": "magnanimous",
+      "japanese": "寛大な・度量の大きい",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Even after losing, she remained",
+        "after": "and praised her opponent's effort.",
+        "translation": "負けた後でも、彼女は寛大で対戦相手の努力を称えた。"
+      }
+    },
+    {
+      "id": "w226",
+      "english": "putrid",
+      "japanese": "腐った・不快な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "A",
+        "after": "odour filled the abandoned house.",
+        "translation": "廃屋には腐ったような悪臭が漂っていた。"
+      }
+    },
+    {
+      "id": "w227",
+      "english": "eclectic",
+      "japanese": "折衷的な・多様な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His library featured an",
+        "after": "collection of books from several eras.",
+        "translation": "彼の図書館にはいくつかの時代からの多様な蔵書があった。"
+      }
+    },
+    {
+      "id": "w228",
+      "english": "jovial",
+      "japanese": "陽気な・楽しい",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The host's",
+        "after": "manner kept everyone smiling.",
+        "translation": "司会者の陽気な態度のおかげでみんなが笑顔でいられた。"
+      }
+    },
+    {
+      "id": "w229",
+      "english": "proffer",
+      "japanese": "差し出す・提供する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He",
+        "after": "an apology after the mistake.",
+        "translation": "彼はミスの後に謝罪を差し出した。"
+      }
+    },
+    {
+      "id": "w230",
+      "english": "blurb",
+      "japanese": "宣伝文・紹介文",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The back cover included a",
+        "after": "from a famous author.",
+        "translation": "裏表紙には有名作家からの紹介文が載っていた。"
+      }
+    },
+    {
+      "id": "w231",
+      "english": "twinge",
+      "japanese": "ひきつり・刺すような痛み",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He felt a",
+        "after": "in his knee after the run.",
+        "translation": "彼は走った後に膝にひきつりを感じた。"
+      }
+    },
+    {
+      "id": "w232",
+      "english": "vexing",
+      "japanese": "いらいらさせる・煩わしい",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The missing document was",
+        "after": "and delayed the whole process.",
+        "translation": "書類が見つからないのは厄介で、全工程を遅らせた。"
+      }
+    },
+    {
+      "id": "w233",
+      "english": "parched",
+      "japanese": "乾いた・渇いた",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "After hiking all day, her throat was",
+        "after": "and she drank the water quickly.",
+        "translation": "一日中ハイキングした後、彼女の喉は渇いていて、水をすぐに飲んだ。"
+      }
+    },
+    {
+      "id": "w234",
+      "english": "delectable",
+      "japanese": "おいしい・非常に魅力的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The chef prepared a",
+        "after": "dish for the guests.",
+        "translation": "シェフは客のためにとてもおいしい料理を用意した。"
+      }
+    },
+    {
+      "id": "w235",
+      "english": "scrawny",
+      "japanese": "やせこけた・ひょろひょろした",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The stray dog looked",
+        "after": "but still wagged its tail happily.",
+        "translation": "その野良犬はやせこけて見えたが、それでも元気にしっぽを振っていた。"
+      }
+    },
+    {
+      "id": "w236",
+      "english": "myriad",
+      "japanese": "無数の・多様な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "There are a",
+        "after": "of ways to solve this problem.",
+        "translation": "この問題を解決する方法は無数にある。"
+      }
+    },
+    {
+      "id": "w237",
+      "english": "intimidate",
+      "japanese": "威圧する・脅す",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The large dog tried to",
+        "after": "the delivery person.",
+        "translation": "その大きな犬は配達員を威圧しようとした。"
+      }
+    },
+    {
+      "id": "w238",
+      "english": "intact",
+      "japanese": "無傷の・完全な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The antique vase arrived",
+        "after": "despite the rough handling.",
+        "translation": "粗雑に扱われたにもかかわらず、骨董の花瓶は無傷で届いた。"
+      }
+    },
+    {
+      "id": "w239",
+      "english": "decimate",
+      "japanese": "壊滅させる・激減させる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The disease threatened to",
+        "after": "the local bird population.",
+        "translation": "その病気は地域の鳥の個体数を激減させる恐れがあった。"
+      }
+    },
+    {
+      "id": "w240",
+      "english": "menace",
+      "japanese": "脅威・厄介者",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The flooded river was a",
+        "after": "to the village downstream.",
+        "translation": "氾濫した川は下流の村にとって脅威だった。"
+      }
+    },
+    {
+      "id": "w241",
+      "english": "crunch",
+      "japanese": "かりかり音・危機的状況",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She heard the",
+        "after": "of leaves under her boots.",
+        "translation": "彼女はブーツの下で葉がかりかりと音を立てるのを聞いた。"
+      }
+    },
+    {
+      "id": "w242",
+      "english": "bleak",
+      "japanese": "暗い・希望のない",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The weather forecast looked",
+        "after": "for the weekend.",
+        "translation": "週末の天気予報は暗い見通しだった。"
+      }
+    },
+    {
+      "id": "w243",
+      "english": "insidious",
+      "japanese": "陰険な・徐々に進行する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The disease was",
+        "after": "and hard to detect at first.",
+        "translation": "その病気は徐々に進行し、最初は見つけにくかった。"
+      }
+    },
+    {
+      "id": "w244",
+      "english": "flunk",
+      "japanese": "落第する・不合格になる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He was afraid he would",
+        "after": "the math exam again.",
+        "translation": "彼は再び数学の試験に落ちるのではないかと怖がっていた。"
+      }
+    },
+    {
+      "id": "w245",
+      "english": "adulation",
+      "japanese": "過剰な称賛・追従",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The singer received",
+        "after": "from fans after the performance.",
+        "translation": "その歌手は公演後、ファンから過剰な称賛を受けた。"
+      }
+    },
+    {
+      "id": "w246",
+      "english": "expediency",
+      "japanese": "便宜・便宜主義",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He chose",
+        "after": "over a more difficult but fair solution.",
+        "translation": "彼はより困難だが公正な解決策よりも便宜を選んだ。"
+      }
+    },
+    {
+      "id": "w247",
+      "english": "hubris",
+      "japanese": "傲慢・高慢",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His",
+        "after": "led him to ignore expert advice.",
+        "translation": "彼の傲慢さが専門家の助言を無視させた。"
+      }
+    },
+    {
+      "id": "w248",
+      "english": "grovel",
+      "japanese": "へつらう・ひれ伏す",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He had to",
+        "after": "to gain the manager's forgiveness.",
+        "translation": "彼はマネージャーの許しを得るためにへつらわなければならなかった。"
+      }
+    },
+    {
+      "id": "w249",
+      "english": "fling",
+      "japanese": "投げる・気軽な関係",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She decided to have a",
+        "after": "during her summer vacation.",
+        "translation": "彼女は夏休みに気軽な関係を持つことにした。"
+      }
+    },
+    {
+      "id": "w250",
+      "english": "interminable",
+      "japanese": "終わりのない・果てしない",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The lecture seemed",
+        "after": "and the students grew restless.",
+        "translation": "講義は終わりのないように感じられ、生徒たちは落ち着かなくなった。"
+      }
+    },
+    {
+      "id": "w251",
+      "english": "mishap",
+      "japanese": "不幸な出来事・事故",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "A small",
+        "after": "delayed the start of the meeting.",
+        "translation": "小さな不手際が会議の開始を遅らせた。"
+      }
+    },
+    {
+      "id": "w252",
+      "english": "recalcitrant",
+      "japanese": "反抗的な・頑固な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The",
+        "after": "student refused to follow the rules.",
+        "translation": "その反抗的な生徒は規則に従おうとしなかった。"
+      }
+    },
+    {
+      "id": "w253",
+      "english": "denomination",
+      "japanese": "（通貨・宗教の）単位・宗派",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The church belonged to a new",
+        "after": "that had formed in the city.",
+        "translation": "その教会は街にできた新しい宗派に属していた。"
+      }
+    },
+    {
+      "id": "w254",
+      "english": "constrain",
+      "japanese": "制約する・強いる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Tight budgets",
+        "after": "the team's ability to innovate.",
+        "translation": "厳しい予算がチームの革新力を制約した。"
+      }
+    },
+    {
+      "id": "w255",
+      "english": "shrewd",
+      "japanese": "抜け目のない・鋭い",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Her",
+        "after": "investment choices paid off quickly.",
+        "translation": "彼女の抜け目のない投資判断はすぐに実を結んだ。"
+      }
+    },
+    {
+      "id": "w256",
+      "english": "agonize",
+      "japanese": "苦悩する・苦しむ",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He would",
+        "after": "over whether to accept the job offer.",
+        "translation": "彼は仕事のオファーを受けるかどうかで苦悩した。"
+      }
+    },
+    {
+      "id": "w257",
+      "english": "obsequious",
+      "japanese": "へつらいの・追従的な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The assistant was",
+        "after": "and agreed with every suggestion.",
+        "translation": "その助手はへつらうようで、あらゆる提案に賛成した。"
+      }
+    },
+    {
+      "id": "w258",
+      "english": "gaunt",
+      "japanese": "やせこけた・骨ばった",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "After the illness, he appeared",
+        "after": "and needed time to recover.",
+        "translation": "病気の後、彼はやせこけて見え、回復するのに時間が必要だった。"
+      }
+    },
+    {
+      "id": "w259",
+      "english": "effigy",
+      "japanese": "人形・まがい物",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Protesters burned an",
+        "after": "of the unpopular leader.",
+        "translation": "抗議者たちは不人気な指導者のまがい物を燃やした。"
+      }
     }
   ]
 }
