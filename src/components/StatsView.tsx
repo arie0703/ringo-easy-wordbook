@@ -49,7 +49,7 @@ export function StatsView({ words, onReset }: Props) {
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-700">
-              {words.map((w) => {
+              {words.filter((w) => getStats(w.id).total > 0).map((w) => {
                 const { correct, total } = getStats(w.id);
                 const wrong = total - correct;
                 return (
