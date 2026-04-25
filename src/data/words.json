@@ -3330,6 +3330,240 @@
         "after": "of the unpopular leader.",
         "translation": "抗議者たちは不人気な指導者のまがい物を燃やした。"
       }
+    },
+    {
+      "id": "w260",
+      "english": "pariah",
+      "japanese": "のけ者・社会的追放者",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "After the scandal, he became a",
+        "after": "in his own community.",
+        "translation": "スキャンダルの後、彼は自分のコミュニティでのけ者になった。"
+      }
+    },
+    {
+      "id": "w261",
+      "english": "persevere",
+      "japanese": "忍耐強く続ける・やり抜く",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She chose to",
+        "after": "despite the many obstacles in her path.",
+        "translation": "彼女は多くの障害があるにもかかわらず、やり抜くことを選んだ。"
+      }
+    },
+    {
+      "id": "w262",
+      "english": "secretion",
+      "japanese": "分泌・分泌物",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The gland is responsible for the",
+        "after": "of hormones into the bloodstream.",
+        "translation": "その腺は血流へのホルモンの分泌を担っている。"
+      }
+    },
+    {
+      "id": "w263",
+      "english": "conjecture",
+      "japanese": "推測・憶測",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His conclusion was based on",
+        "after": "rather than solid evidence.",
+        "translation": "彼の結論は確かな証拠ではなく推測に基づいていた。"
+      }
+    },
+    {
+      "id": "w264",
+      "english": "purloin",
+      "japanese": "こっそり盗む・横領する",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The clerk attempted to",
+        "after": "funds from the company account.",
+        "translation": "その事務員は会社の口座から資金をこっそり横領しようとした。"
+      }
+    },
+    {
+      "id": "w265",
+      "english": "sham",
+      "japanese": "偽物・見せかけ",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The entire negotiation turned out to be a",
+        "after": "designed to buy time.",
+        "translation": "交渉全体が時間稼ぎのための見せかけだったことが判明した。"
+      }
+    },
+    {
+      "id": "w266",
+      "english": "alacrity",
+      "japanese": "快活さ・敏速さ",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She accepted the challenge with",
+        "after": "and immediately got to work.",
+        "translation": "彼女は快活にその挑戦を受け入れ、すぐに取り掛かった。"
+      }
+    },
+    {
+      "id": "w267",
+      "english": "revulsion",
+      "japanese": "強い嫌悪感・反感",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "She felt a wave of",
+        "after": "when she saw the graphic images.",
+        "translation": "衝撃的な映像を見たとき、彼女は強い嫌悪感を覚えた。"
+      }
+    },
+    {
+      "id": "w268",
+      "english": "incoherent",
+      "japanese": "支離滅裂な・まとまりのない",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "His speech was",
+        "after": "and difficult to follow.",
+        "translation": "彼のスピーチは支離滅裂で理解しにくかった。"
+      }
+    },
+    {
+      "id": "w269",
+      "english": "decadent",
+      "japanese": "退廃的な・堕落した",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The empire fell due to its",
+        "after": "lifestyle and moral decay.",
+        "translation": "その帝国は退廃的な生活様式と道徳的腐敗によって滅亡した。"
+      }
+    },
+    {
+      "id": "w270",
+      "english": "disgruntled",
+      "japanese": "不満を持った・不機嫌な",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "A group of",
+        "after": "employees filed a formal complaint.",
+        "translation": "不満を持った従業員のグループが正式な苦情を申し立てた。"
+      }
+    },
+    {
+      "id": "w271",
+      "english": "prevaricate",
+      "japanese": "言い逃れをする・ごまかす",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "When asked directly, he began to",
+        "after": "rather than give a straight answer.",
+        "translation": "直接聞かれると、彼は率直に答える代わりに言い逃れを始めた。"
+      }
+    },
+    {
+      "id": "w272",
+      "english": "clamorous",
+      "japanese": "騒々しい・やかましい",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The",
+        "after": "crowd demanded an immediate response from the mayor.",
+        "translation": "騒々しい群衆は市長に即座の対応を求めた。"
+      }
+    },
+    {
+      "id": "w273",
+      "english": "atonement",
+      "japanese": "償い・罪滅ぼし",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He spent years doing charity work as",
+        "after": "for his past mistakes.",
+        "translation": "彼は過去の過ちの償いとして何年もボランティア活動をした。"
+      }
+    },
+    {
+      "id": "w274",
+      "english": "perplexing",
+      "japanese": "当惑させる・困惑させる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The sudden change in behavior was",
+        "after": "to everyone who knew him.",
+        "translation": "突然の行動の変化は彼を知る全員を当惑させた。"
+      }
+    },
+    {
+      "id": "w275",
+      "english": "eulogy",
+      "japanese": "追悼演説・賛辞",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "Her son delivered a heartfelt",
+        "after": "at the funeral.",
+        "translation": "息子は葬儀で心のこもった追悼演説を行った。"
+      }
+    },
+    {
+      "id": "w276",
+      "english": "permeate",
+      "japanese": "浸透する・広がる",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "The smell of coffee began to",
+        "after": "throughout the entire office.",
+        "translation": "コーヒーの香りがオフィス全体に広がり始めた。"
+      }
+    },
+    {
+      "id": "w277",
+      "english": "varnish",
+      "japanese": "ニスを塗る・表面を取り繕う",
+      "tags": [
+        "eiken-1"
+      ],
+      "example": {
+        "before": "He tried to",
+        "after": "over the truth with a polished explanation.",
+        "translation": "彼は磨き上げた説明で真実を取り繕おうとした。"
+      }
     }
   ]
 }
